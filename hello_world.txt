@@ -1,0 +1,1 @@
+J'ai ouvert hello_world.txt grâce à la commande "open [file name]"
